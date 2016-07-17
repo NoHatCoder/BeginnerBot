@@ -1,0 +1,29 @@
+[Site "PlayTak.com"]
+[Event "Online Play"]
+[Date "2016.06.09"]
+[Time "13:55:13"]
+[Player1 "alphabot"]
+[Player2 "StPenguin"]
+[Result "F-0"]
+[Size "5"]
+
+1. a5 b4
+2. c4 a4
+3. d4 a3
+4. b3 a2
+5. 1b3<1 1a2+1
+6. b3 a2
+7. 1b3<1 1a2+1
+8. Ca2 5a3>122
+9. a3 Cb2
+10. 1b4<1 b4
+11. 1d4-1 2c3>2
+12. a1 1b4<1
+13. b5 b4
+14. 1c4<1 2a4>2
+15. 1b5-1 1a4>1
+16. Sc4 5b4+5
+17. 1c4<1 1b2+1
+18. d4 c3
+19. b2 d2
+20. 1b4+1
